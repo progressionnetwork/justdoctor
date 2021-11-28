@@ -9,6 +9,8 @@
 1. перед запуском:
 
 export FLASK_APP=justatom.atom
+
+2. запуск:
 flask run
 
 ## Что сделали на хакатоне:

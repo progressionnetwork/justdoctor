@@ -1,7 +1,8 @@
 # justdoctor
 
 Команда «JUSTATOM»
-
+Контакты: 
+- Телеграм: ![Alt text](https://github.com/progressionnetwork/progressionnetwork/blob/main/s.png?raw=true "Title")
 
 # Хакатон по искусственному интеллекту
 

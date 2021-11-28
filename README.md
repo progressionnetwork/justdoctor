@@ -4,8 +4,8 @@
 ## Команда «JUSTATOM»
 
 Интерпретация предсказания модели в форме визуального графа:
+(так же доступен файл в расширении .dot для интерактивной визуализации в TreeViz.)
 ![alt text](https://github.com/atomicai/justdoctor/blob/master/features_graph.png)
-* так же доступен файл в расширении .dot для интерактивной визуализации в TreeViz.
 
 
 Как запустить flask web:

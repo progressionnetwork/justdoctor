@@ -5,6 +5,12 @@
 
 ![alt text](https://github.com/atomicai/justdoctor/blob/master/features_graph.png)
 
+Как запустить flask web:
+1. перед запуском:
+
+export FLASK_APP=justatom.atom
+flask run
+
 ## Что сделали на хакатоне:
 Проанализировали фичи из текстового датасета;
 Распарсили текстовый датасет и извлекли фичи;
